@@ -36,7 +36,8 @@ GEM5 with ZORO can be run using the script:
 
 ``./run_gem5.sh``
 
-
+## Running an entire suite of different MAX_RETRIES values:
+``python ./run_Series.py``
 ## Notes:
 
 Be sure to place the scripts in GEM5's root directory first
