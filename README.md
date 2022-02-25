@@ -13,6 +13,9 @@ Production (Jack's PC)
 
 Production (Zack's PC)
 
+## DRAMSIM3_mods
+
+This file contains different configurations of ZORO, specifically the number of max retries
 
 ## Build Instructions
 
