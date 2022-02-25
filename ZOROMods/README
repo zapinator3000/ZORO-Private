@@ -1,0 +1,16 @@
+This folder contains all of the files needed to run ZORO
+
+The files should be placed as below:
+
+
+dramsim3_wrapper.cc
+dramsim3_wrapper.hh
+dramsim3.cc
+dramsim3.hh
+DRAMsim3.py
+
+All above file should go in the GEM5 directory under src/mem
+
+DRAMsim3.py should be matched for all GEM5 installs with or without ZORO
+
+All others contain ZORO mods and should not be used in a baseline / controll system.
